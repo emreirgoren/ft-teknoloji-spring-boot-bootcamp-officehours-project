@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b0e57a6-e46c-41e5-9658-f83e1b49c7b9" name="Changes" comment="Add generic response and exception handler mechanism to Email and Payment services." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2jKFLbdxIXHdtUfjIMJRWA4784L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BloghubAdvisorServiceApplication.executor": "Debug",
+    "Application.BloghubEmailServiceApplication.executor": "Run",
+    "Application.BloghubPaymentServiceApplication.executor": "Run",
+    "Application.BloghubServiceApplication.executor": "Run",
+    "Application.com.patika.bloghubadvisorservice.BloghubAdvisorServiceApplication.executor": "Run",
+    "JUnit.All in bloghub-advisor-service.executor": "Run",
+    "JUnit.All in bloghub-email-service (1).executor": "Run",
+    "JUnit.All in bloghub-email-service (2).executor": "Run",
+    "JUnit.All in bloghub-email-service.executor": "Run",
+    "JUnit.All in bloghub-service (1).executor": "Run",
+    "JUnit.All in bloghub-service.executor": "Debug",
+    "JUnit.All in week-2-emreirgoren (1).executor": "Run",
+    "JUnit.BloghubEmailServiceApplicationTests.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/canem/OneDrive/Masaüstü/Yeni klasör (6)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.blogHubAdvisor.bloghub_advisor_service.repository" />
+      <recent name="com.patika.bloghubservice.exception" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\canem\OneDrive\Masaüstü\Week2HW\week-2-emreirgoren\bloghub-service-hwsolution\src\main\resources\public\images" />
+      <recent name="C:\Users\canem\OneDrive\Masaüstü\Week2HW\week-2-emreirgoren\bloghub-service-hwsolution\src\main\resources\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BloghubAdvisorServiceApplication">
+    <configuration name="BloghubAdvisorServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.blogHubAdvisor.bloghub_advisor_service.BloghubAdvisorServiceApplication" />
+      <module name="bloghub-advisor-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blogHubAdvisor.bloghub_advisor_service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BloghubServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.patika.bloghubservice.BloghubServiceApplication" />
+      <module name="bloghub-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.patika.bloghubservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in bloghub-advisor-service" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bloghub-advisor-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in bloghub-service (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bloghub-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in bloghub-service" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bloghub-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in week-2-emreirgoren" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="week-2-emreirgoren" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-21" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BloghubAdvisorServiceApplication" />
+        <item itemvalue="Application.BloghubServiceApplication" />
+        <item itemvalue="JUnit.All in bloghub-advisor-service" />
+        <item itemvalue="JUnit.All in bloghub-service (1)" />
+        <item itemvalue="JUnit.All in bloghub-service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b0e57a6-e46c-41e5-9658-f83e1b49c7b9" name="Changes" comment="" />
+      <created>1721127807533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721127807533</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Refactor like-count endpoint to limit and exceptions.">
+      <option name="closed" value="true" />
+      <created>1721132906541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721132906541</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added endpoints to fetch blogs based on user's published and draft status and added exceptions.">
+      <option name="closed" value="true" />
+      <created>1721143072904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721143072904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added hard delete endpoint and exceptions.">
+      <option name="closed" value="true" />
+      <created>1721164368628</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721164368628</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added save image endpoint.">
+      <option name="closed" value="true" />
+      <created>1721232758290</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721232758290</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added only approved users can publish blogs and exception.">
+      <option name="closed" value="true" />
+      <created>1721234679252</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721234679252</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add generic response and exception handler mechanism to Email and Payment services.">
+      <option name="closed" value="true" />
+      <created>1721307968621</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721307968621</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add generic response and exception handler mechanism to Email and Payment services.">
+      <option name="closed" value="true" />
+      <created>1721308002702</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721308002702</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactor like-count endpoint to limit and exceptions." />
+    <MESSAGE value="Added endpoints to fetch blogs based on user's published and draft status and added exceptions." />
+    <MESSAGE value="Added hard delete endpoint and exceptions." />
+    <MESSAGE value="Added save image endpoint." />
+    <MESSAGE value="Added only approved users can publish blogs and exception." />
+    <MESSAGE value="Add generic response and exception handler mechanism to Email and Payment services." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add generic response and exception handler mechanism to Email and Payment services." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/bloghub-service-hwsolution/src/main/java/com/patika/bloghubservice/service/UserService.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
